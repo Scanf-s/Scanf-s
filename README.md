@@ -45,17 +45,40 @@
     <br><br><br>
     <span>
       <p>다뤄본적 있는 언어 및 기술</p>
+      <p>Language</p>
       <span>
         <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
       </span>
       <span>
         <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
       </span>
       <span>
-        <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=java&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=Java&logoColor=black"/>
+      </span>
+      <br><br>
+      <p>Mobile</p>
+      <span>
+        <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
       </span>
       <span>
-        <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=black"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=iOS&logoColor=white"/>
+      </span>
+      <br><br>
+      <p>OS&Network</p>
+      <span>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=Wireshark&logoColor=white"/>
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/Vmware-607078?style=plastic&logo=Vmware&logoColor=white"/>
+      </span>
+      <span>
+        <img src="https://img.shields.io/badge/PacketTracer-000000?style=plastic&logo=PacketTracer&logoColor=white"/>
       </span>
     </span>
     <br><br><br>
