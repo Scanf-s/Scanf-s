@@ -15,14 +15,14 @@
     </span>
     <br><br><br>
     <span>
-      <p>공부 정리 블로그</p>
+      <p><strong>공부 정리 블로그</strong></p>
       <a href="https://velog.io/@calzone0404/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=white"/>
       </a>
     </span>
     <br><br><br>
     <span>
-      <p>현재 공부하는 분야</p>
+      <p><strong>현재 공부하는 분야</strong></p>
       <span>
         <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=html5&logoColor=white"/>
       </span>
@@ -44,7 +44,7 @@
     </span>
     <br><br><br>
     <span>
-      <p>다뤄본적 있는 언어 및 기술</p>
+      <p><strong>다뤄본적 있는 언어 및 기술</strong></p>
       <p>Language</p>
       <span>
         <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
@@ -82,6 +82,12 @@
       </span>
     </span>
     <br><br><br>
+    <span>
+      <p><strong>IT 독서 목록</strong>strong></p>
+      <span>
+        <p>Clean Code (읽는중)</p>
+      </span>
+    </span>
     <span>
       <p><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&amp;layout=compact&amp;theme=tokyonight"></p>
       <br><br><br>
