@@ -14,14 +14,14 @@
       <p>1일 1알고리즘 문제 풀이를 도전중에 있으나, 쉽지 않네요.. 😭</p>
       <p><a href="https://solved.ac/calzone0404"><img src="http://mazassumnida.wtf/api/generate_badge?boj=calzone0404" alt="Solved.ac Profile"></a></p>
     </span>
-    <br><br><br>
+    <br><br><br><hr>
     <span>
       <p><strong>공부 정리 블로그</strong></p>
       <a href="https://velog.io/@calzone0404/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=white"/>
       </a>
     </span>
-    <br><br><br>
+    <br><br><br><hr>
     <span>
       <p><strong>현재 공부하는 분야</strong></p>
       <span>
@@ -43,10 +43,13 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
       </span>
     </span>
-    <br><br><br>
+    <br><br><br><hr>
     <span>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs">
+      </p>      
       <details>
-      <summary><strong>다뤄본적 있는 언어 및 기술</strong></summart>
+        <summary><strong>다뤄본적 있는 언어 및 기술</strong></summary>
         <p>Language</p>
         <span>
           <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
@@ -84,7 +87,7 @@
         </span>
       </details>
     </span>
-    <br><br><br>
+    <br><br><br><hr>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScanf-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
   </div>
 
