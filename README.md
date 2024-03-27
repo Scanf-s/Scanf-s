@@ -12,6 +12,7 @@
       <p>👋👋  안녕하세요!  👋👋
       <p>대학 휴학생이고, 현재 백엔드에 대해 공부중입니다.</p>
       <p>1일 1알고리즘 문제 풀이를 도전중에 있으나, 쉽지 않네요.. 😭</p>
+      <p><a href="https://solved.ac/calzone0404"><img src="http://mazassumnida.wtf/api/generate_badge?boj=calzone0404" alt="Solved.ac Profile"></a></p>
     </span>
     <br><br><br>
     <span>
@@ -44,54 +45,46 @@
     </span>
     <br><br><br>
     <span>
-      <p><strong>다뤄본적 있는 언어 및 기술</strong></p>
-      <p>Language</p>
-      <span>
-        <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=Java&logoColor=black"/>
-      </span>
-      <br><br>
-      <p>Mobile</p>
-      <span>
-        <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=iOS&logoColor=white"/>
-      </span>
-      <br><br>
-      <p>OS&Network</p>
-      <span>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=Wireshark&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/Vmware-607078?style=plastic&logo=Vmware&logoColor=white"/>
-      </span>
-      <span>
-        <img src="https://img.shields.io/badge/PacketTracer-000000?style=plastic&logo=PacketTracer&logoColor=white"/>
-      </span>
+      <details>
+      <summary><strong>다뤄본적 있는 언어 및 기술</strong></summart>
+        <p>Language</p>
+        <span>
+          <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=Java&logoColor=black"/>
+        </span>
+        <br><br>
+        <p>Mobile</p>
+        <span>
+          <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=iOS&logoColor=white"/>
+        </span>
+        <br><br>
+        <p>OS&Network</p>
+        <span>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=Wireshark&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/Vmware-607078?style=plastic&logo=Vmware&logoColor=white"/>
+        </span>
+        <span>
+          <img src="https://img.shields.io/badge/PacketTracer-000000?style=plastic&logo=PacketTracer&logoColor=white"/>
+        </span>
+      </details>
     </span>
     <br><br><br>
-    <span>
-      <p><strong>IT 독서 목록</strong>strong></p>
-      <span>
-        <p>Clean Code (읽는중)</p>
-      </span>
-    </span>
-    <span>
-      <p><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&amp;layout=compact&amp;theme=tokyonight"></p>
-      <br><br><br>
-      <p><a href="https://solved.ac/calzone0404"><img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/generate_badge?boj=calzone0404"></a></p>
-    </span>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScanf-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
   </div>
 
