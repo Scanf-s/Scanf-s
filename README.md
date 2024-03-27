@@ -11,10 +11,10 @@
     <span>
       <p>👋👋  안녕하세요!  👋👋
       <p>대학 휴학생이고, 현재 백엔드에 대해 공부중입니다.</p>
-      <p>1일 1알고리즘 문제 풀이를 도전중에 있으나, 쉽지 않네요.. 😭</p>
+      <p>1일 1알고리즘 문제 풀이를 도전중에 있으나, 쉽지 않네요.. 😭</p><br>
       <p><a href="https://solved.ac/calzone0404"><img src="http://mazassumnida.wtf/api/generate_badge?boj=calzone0404" alt="Solved.ac Profile"></a></p>
     </span>
-    <br><br><br><hr>
+    <br><hr>
     <span>
       <p><strong>📘📘  공부 정리 블로그  📘📘</strong></p><br>
       <a href="https://velog.io/@calzone0404/posts">
