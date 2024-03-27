@@ -1,4 +1,5 @@
-### Hi there 👋
+# [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Scanf-s%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 
 <!--
 **Scanf-s/Scanf-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Scanf-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=calzone0404)](https://solved.ac/calzone0404)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&theme=tokyonight)
