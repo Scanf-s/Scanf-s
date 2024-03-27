@@ -16,14 +16,14 @@
     </span>
     <br><br><br><hr>
     <span>
-      <p><strong>공부 정리 블로그</strong></p>
+      <p><strong>📘📘  공부 정리 블로그  📘📘</strong></p><br>
       <a href="https://velog.io/@calzone0404/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=white"/>
       </a>
     </span>
     <br><br><br><hr>
     <span>
-      <p><strong>현재 공부하는 분야</strong></p>
+      <p><strong>📝📝 현재 공부하는 분야 📝📝</strong></p><br>
       <span>
         <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=html5&logoColor=white"/>
       </span>
@@ -49,7 +49,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs">
       </p>      
       <details>
-        <summary><strong>다뤄본적 있는 언어 및 기술</strong></summary>
+        <summary><strong>🍜🍜  다뤄본적 있는 언어 및 기술  🍜🍜</strong></summary><br>
         <p>Language</p>
         <span>
           <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
