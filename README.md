@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/-StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/>
   </a>
 
-  
 
   🎓 숭실대학교 컴퓨터학부 휴학중
  
@@ -36,7 +35,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook&theme=dracula&langs_count=8"/>
   
-  ### 🛠 SKILL 🛠
+  ### 🛠 What I learned? 🛠
 
   <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
