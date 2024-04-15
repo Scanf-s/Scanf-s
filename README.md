@@ -9,9 +9,6 @@
       src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&animation=fadeIn&text=&section=footer&fontAlign=70">
     <br><br><br>
     <span>
-      <p>👋👋  안녕하세요!  👋👋
-      <p>대학 휴학생이고, 현재 백엔드에 대해 공부중입니다.</p>
-      <p>1일 1알고리즘 문제 풀이를 도전중에 있으나, 쉽지 않네요.. 😭</p><br>
       <p><a href="https://solved.ac/calzone0404"><img src="http://mazassumnida.wtf/api/generate_badge?boj=calzone0404" alt="Solved.ac Profile"></a></p>
     </span>
     <br><hr>
