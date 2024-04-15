@@ -4,7 +4,7 @@
       src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&animation=fadeIn&text=&section=header&fontAlign=70">
     <a href="https://git.io/typing-svg"><img
       alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Scanf-s"/></a><br><br><br>
+      src="https://readme-typing-svg.demolab.com?font=Satisfy&size=40&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Scanf-s (SULLUNG)"/></a><br><br><br>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&animation=fadeIn&text=&section=footer&fontAlign=70">
     <br><br><br>
   </div>
@@ -14,9 +14,8 @@
 <div align="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calzone0404"/>
   
-## YANG UI JONG (SULLUNG)
+<br><br>
   
-
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScanf-s&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   <a href="[https://doteloper.tistory.com](https://velog.io/@calzone0404/posts)">
     <img src="https://img.shields.io/badge/-StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/>
