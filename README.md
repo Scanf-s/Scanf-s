@@ -34,7 +34,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook&theme=dracula&langs_count=8"/>
   
-  ### 🛠 I've been learning 🛠
+  ### 🛠 What i'm learning these days 🛠
 
   <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
