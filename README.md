@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-StudyBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/>
   </a>
 
-  🎓 선린인터넷고등학교 정보통신과 졸업
+  🎓 선린인터넷고등학교 정보통신과 졸업  
   🎓 숭실대학교 컴퓨터학부 휴학중
  
 
