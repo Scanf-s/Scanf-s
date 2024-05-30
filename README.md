@@ -46,9 +46,10 @@
   <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-000000?style=plastic&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
   <br>
-  
+  <img src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-232f3e?style=plastic&logo=Docker&logoColor=white"/>
 </div>
 
