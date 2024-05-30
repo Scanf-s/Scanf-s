@@ -39,21 +39,16 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=Java&logoColor=black"/>
+  <br>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1772b6?style=plastic&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232f3e?style=plastic&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=plastic&logo=iOS&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=Wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vmware-607078?style=plastic&logo=Vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PacketTracer-000000?style=plastic&logo=PacketTracer&logoColor=white"/>
-
+  
 </div>
 
