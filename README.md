@@ -32,7 +32,6 @@
   ### 🛠 What i'm learning these days 🛠
 
   <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=black"/>
   <br>
