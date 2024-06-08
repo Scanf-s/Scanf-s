@@ -36,9 +36,6 @@
   <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=black"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1772b6?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
