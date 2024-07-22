@@ -46,3 +46,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 </div>
 
+<div>
+  [![Scanf-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scanf-s)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
