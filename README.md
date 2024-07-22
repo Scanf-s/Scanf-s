@@ -47,6 +47,6 @@
 </div>
 
 <div>
-  [![Scanf-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scanf-s)](https://github.com/anuraghazra/github-readme-stats)
+  ![Scanf-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scanf-s)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
