@@ -28,6 +28,7 @@
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8"/>
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical"/>
   
   ### 🛠 What i'm learning these days 🛠
 
@@ -44,11 +45,5 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
-</div>
-
-<div align="center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical)
-  
 </div>
 
