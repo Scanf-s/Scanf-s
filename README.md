@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter,html%20notebook&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8"/>
   
   ### 🛠 What i'm learning these days 🛠
 
