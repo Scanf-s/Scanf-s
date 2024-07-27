@@ -30,9 +30,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8"/>
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical"/>
   
-  ### 🛠 What i'm learning these days 🛠
+  ### 🛠 Tech Stacks 🛠
 
-  <img src="https://img.shields.io/badge/C-blueviolet?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=black"/>
   <br>
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
