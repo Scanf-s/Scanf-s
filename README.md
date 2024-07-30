@@ -20,10 +20,6 @@
   <br>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8" width="400"/>
-  <br>
-
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical" width="400"/>
   </br>
 
