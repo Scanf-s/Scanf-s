@@ -9,31 +9,43 @@
 </header>
 
 <div align="center">
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calzone0404" width="300"/>
+  <br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calzone0404" width="400"/>
+  <br>
+  
+  <br>
+  🎓 선린인터넷고등학교 정보통신과 졸업
+  <br>
+  🎓 숭실대학교 컴퓨터학부 재학중
+  <br>
 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8" width="400"/>
+  <br>
+
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical" width="400"/>
+  </br>
+
+  ### 🛠 Tech Stacks 🛠
+  <div align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  </div>
+
+  <br>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScanf-s&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <br>
   
-  🎓 선린인터넷고등학교 정보통신과 졸업  
-  🎓 숭실대학교 컴퓨터학부 재학중
-  
-  <br>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=compact&hide=javascript,css,scss,jupyter%20notebook,html&theme=dracula&langs_count=8" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical" width="400"/>
-
-  ### 🛠 Tech Stacks 🛠
-  <div>
-    <img src="https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
-  </div>
 </div>
