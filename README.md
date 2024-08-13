@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical" width="400"/>
   </br>
 
-  ### 🛠 Tech Stacks 🛠
+  ### :wrench: Tech Stacks :wrench:
   <div align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   </div>
 
-  ### Certificates
+  ### :trophy: Certificates :trophy:
   <div align="center">
     <img src="https://github.com/user-attachments/assets/e6ec2e02-c646-4fcb-b627-e8604b8c454d" width=100px height=100px/>
   </div>
