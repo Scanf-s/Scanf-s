@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=radical" width="400"/>
   </br>
 
-  ### :wrench: Tech Stacks :wrench:
+  ### :wrench: Experience :wrench:
   <div align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
