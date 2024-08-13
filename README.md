@@ -37,6 +37,11 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   </div>
 
+  ### Certificates
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/e6ec2e02-c646-4fcb-b627-e8604b8c454d" width=100px height=100px/>
+  </div>
+
   ### :scroll: Learning :scroll:
 
   <div align="center">
