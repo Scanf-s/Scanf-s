@@ -47,6 +47,8 @@
 
   <div align="center">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://github.com/user-attachments/assets/1a402192-a585-45fc-a150-97c9e5f32c46" width=100px height=100px/>
+
   </div>
 
   <br>
