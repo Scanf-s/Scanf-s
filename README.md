@@ -48,6 +48,8 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/AWS%20SAA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </div>
 
   <br>
