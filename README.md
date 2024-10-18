@@ -32,7 +32,7 @@
       <br>
       <img src="https://skillicons.dev/icons?i=androidstudio" />
       <br>
-      <img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring"/>
+      <img src="https://skillicons.dev/icons?i=flask,django,fastapi"/>
       <br>
       <img src="https://skillicons.dev/icons?i=opencv"/>
       <br>
