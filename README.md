@@ -68,13 +68,6 @@
     </a>
   </p>
 
-  <h3>Mobile Development</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=androidstudio" />
-    </a>
-  </p>
-
   <h3>Backend & Web Frameworks</h3>
   <p>
     <a href="https://skillicons.dev">
