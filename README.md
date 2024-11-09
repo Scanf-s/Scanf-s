@@ -91,8 +91,8 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="📜" width="25" height="25" /> Certifications
   </h2>
   <p>
-    <img src="https://github.com/user-attachments/assets/62c90eec-b25f-47ee-8538-1d32c082e55a" width="48" height="48"/>
-    <img src="https://github.com/user-attachments/assets/0597dc25-d9a2-47ca-a802-f40f7ffab19b" width="48" height="48"/>
+    <img src="https://github.com/user-attachments/assets/62c90eec-b25f-47ee-8538-1d32c082e55a" width="48" height="48" title="CCNA" alt="CCNA"/>
+    <img src="https://github.com/user-attachments/assets/0597dc25-d9a2-47ca-a802-f40f7ffab19b" width="48" height="48" title="AWS SAA" alt="AWS SAA"/>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=120&animation=fadeIn&section=footer&fontAlign=70">
