@@ -72,6 +72,9 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring boot"/>
     </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=celery,redis"/>
+    </a>
   </p>
 
   <h3>Computer Vision</h3>
