@@ -32,7 +32,7 @@
   </p>
 
   <h3>
-    🏆 Problem Solving
+    🏃 Problem Solving
   </h3>
   <p>
     <a href="https://www.codetree.ai/profiles/calzone0404">
