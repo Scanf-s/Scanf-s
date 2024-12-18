@@ -35,7 +35,9 @@
     🏆 Problem Solving
   </h3>
   <p>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calzone0404" width="400"/>
+    <a href="https://www.codetree.ai/profiles/calzone0404">
+        <img src="https://banner.codetree.ai/v1/banner/calzone0404" alt="코드트리|실력진단-calzone0404"/>
+    </a>
   </p>
   
   <h3>
