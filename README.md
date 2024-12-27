@@ -30,15 +30,6 @@
   <p>
     숭실대학교 시스템소프트웨어연구실 학부연구생 (24.09 ~ 24.12)
   </p>
-
-  <h3>
-    🏃 Problem Solving
-  </h3>
-  <p>
-    <a href="https://www.codetree.ai/profiles/calzone0404">
-        <img src="https://banner.codetree.ai/v1/banner/calzone0404" alt="코드트리|실력진단-calzone0404"/>
-    </a>
-  </p>
   
   <h3>
     📊 GitHub Stats
@@ -73,7 +64,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
