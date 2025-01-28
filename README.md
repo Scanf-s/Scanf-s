@@ -1,6 +1,6 @@
 <header>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=UIJONG%20YANG&fontAlign=39&textBg=false">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4&text=UIJONG%20YANG&fontAlign=39&textBg=false">
   </div>
 </header>
 
@@ -68,5 +68,5 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&fontAlign=70">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
 </div>
