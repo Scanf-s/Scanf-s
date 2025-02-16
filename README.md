@@ -36,8 +36,9 @@
   </h2>
   <p>
     <img src="https://github.com/user-attachments/assets/62c90eec-b25f-47ee-8538-1d32c082e55a" width="100" height="100" title="CCNA" alt="CCNA"/>
-    <img src="https://github.com/user-attachments/assets/0597dc25-d9a2-47ca-a802-f40f7ffab19b" width="100" height="100" title="AWS SAA" alt="AWS SAA"/>
-    <img src="https://github.com/user-attachments/assets/91237053-1d0d-457f-89b1-1a96b75e7cd4" width="100" height="100" title="SQLD" alt="SQLD"/>
+    <img src="https://github.com/user-attachments/assets/0597dc25-d9a2-47ca-a802-f40f7ffab19b" width="100" height="100" title="AWS SAA" alt="AWS SAA"/> 
+    <img src="https://github.com/user-attachments/assets/c9d2f8ee-376e-4cbe-a42b-149647a05de5" width="100" height="100" title="AWS ANS" alt="AWS ANS"/>
+    <img src="https://github.com/user-attachments/assets/3590c830-9fb4-4c57-bb4b-00165f8a7b2c" width="100" height="100" title="Terraform" alt="Terraform Associate"/>
   </p>
 
   <br>
