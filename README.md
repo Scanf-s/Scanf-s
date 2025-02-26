@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" /> About Me
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> About Me
   </h2>
   
   <div align="center">
@@ -46,10 +46,10 @@ _to a [research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT
   </p>
 
   <h2>
-    🛠 Dev Experience
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Dev Experience
   </h2>
 
-  <h3>🛠 Backend</h3>
+  <h3>🛠️ Backend</h3>
   
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -59,7 +59,7 @@ _to a [research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
   
-  <h3>☁️ Infra & Monitoring</h3>
+  <h3>⚙️ Automation & Infra & Monitoring</h3>
     
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
