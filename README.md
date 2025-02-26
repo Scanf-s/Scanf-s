@@ -10,16 +10,20 @@
   </h2>
   
   <div align="center">
-  <p>
-    Undergraduate student in Computer Engineering<br>
-    Soongsil University<br>
-    Mar 2022 - Present<br>
-  </p>
-  <p>
-    Undergraduate Research Intern<br>
-    System Software Laboratory, Soongsil University<br>
-    Sep 2024 – Present
-  </p>
+
+**Undergraduate student in Computer Engineering**  
+_Soongsil University_
+_Mar 2022 - Present_
+
+**Undergraduate Research Intern**  
+_System Software Laboratory, Soongsil University_  
+_Sep 2024 – Present_
+
+_1. Participated and contributed_  
+_as an Undergraduate Research Assistant_  
+_to a [research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=109&pageNo=1&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2024m10a&id=8&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2024m10a%29)
+._
+
   </div>
   
   <p>
