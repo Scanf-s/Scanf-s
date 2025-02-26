@@ -11,7 +11,8 @@
   
   <div align="center">
   <p>
-    Computer Science Engineering, Soongsil University<br>
+    Undergraduate student in Computer Engineering<br>
+    Soongsil University<br>
     Mar 2022 - Present<br>
   </p>
   <p>
