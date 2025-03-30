@@ -6,14 +6,39 @@
 
 <div align="center">
   <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="25" height="25" /> It's great to see you
+  </h2>
+
+  <div align="center">
+    
+_**Backend Development**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Experienced in Django, FastAPI, and Spring Boot.
+
+_**Cloud Services**_  
+&nbsp;&nbsp;&nbsp;&nbsp;**Actively learning and building with AWS.**
+&nbsp;&nbsp;&nbsp;&nbsp;Achieved certifications: CCNA, SAA, and ANS.
+
+_**DevOps Engineering**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Building DevOps/MLOps pipelines using Docker, Terraform, GitHub Actions, and AWS.  
+&nbsp;&nbsp;&nbsp;&nbsp;Basic experience with observability tools like Grafana & Prometheus.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Passionate about infrastructure as code and CI/CD automation.**
+
+_**Artificial Intelligence**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Currently learning AI fundamentals and applying MLOps in real-world projects.  
+&nbsp;&nbsp;&nbsp;&nbsp;Contributed to a _**handwriting-to-font**_ generation project.  
+&nbsp;&nbsp;&nbsp;&nbsp;**Interested in NLP and large language models (LLMs), though not experienced yet.**
+
+  </div>
+  
+  <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> About Me
   </h2>
   
   <div align="center">
 
-**Undergraduate student in Computer Engineering**  
-_Soongsil University_
-_Mar 2022 - Present_
+**Undergraduate Student in Computer Engineering**  
+_Soongsil University_  
+_Mar 2022 – Present_
 
 **Undergraduate Research Intern**  
 _System Software Laboratory, Soongsil University_  
@@ -21,7 +46,7 @@ _Sep 2024 – Present_
 
 _1. Participated and contributed_  
 _as an Undergraduate Research Assistant_  
-_to a [Handwriting font generate service research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=109&pageNo=1&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2024m10a&id=8&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2024m10a%29)
+_to a [handwriting font generation service research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=109&pageNo=1&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2024m10a&id=8&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2024m10a%29)
 ._
 
   </div>
@@ -34,42 +59,6 @@ _to a [Handwriting font generate service research paper](https://ocean.kisti.re.
       <img src="https://github-readme-stats.vercel.app/api?username=Scanf-s&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
     </a>
   </p>
-  
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="📜" width="25" height="25" /> Certifications
-  </h2>
-  <p>
-    <img src="https://github.com/user-attachments/assets/62c90eec-b25f-47ee-8538-1d32c082e55a" width="100" height="100" title="CCNA" alt="CCNA"/>
-    <img src="https://github.com/user-attachments/assets/0597dc25-d9a2-47ca-a802-f40f7ffab19b" width="100" height="100" title="AWS SAA" alt="AWS SAA"/> 
-    <img src="https://github.com/user-attachments/assets/c9d2f8ee-376e-4cbe-a42b-149647a05de5" width="100" height="100" title="AWS ANS" alt="AWS ANS"/>
-    <img src="https://github.com/user-attachments/assets/3590c830-9fb4-4c57-bb4b-00165f8a7b2c" width="100" height="100" title="Terraform" alt="Terraform Associate"/>
-  </p>
-
-  <h2>
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Dev Experience
-  </h2>
-
-  <h3>🛠️ Backend</h3>
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-  
-  <h3>⚙️ Automation & Infra & Monitoring</h3>
-    
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![NCP](https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
   
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
