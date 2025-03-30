@@ -15,7 +15,7 @@ _**Backend Development**_
 &nbsp;&nbsp;&nbsp;&nbsp;Experienced in Django, FastAPI, and Spring Boot.
 
 _**Cloud Services**_  
-&nbsp;&nbsp;&nbsp;&nbsp;**Actively learning and building with AWS.**
+&nbsp;&nbsp;&nbsp;&nbsp;**Actively learning and building with AWS.**  
 &nbsp;&nbsp;&nbsp;&nbsp;Achieved certifications: CCNA, SAA, and ANS.
 
 _**DevOps Engineering**_  
