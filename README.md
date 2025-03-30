@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="25" height="25" /> It's great to see you
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="25" height="25" /> Hi there!
   </h2>
 
   <div align="center">
@@ -31,7 +31,7 @@ _**Artificial Intelligence**_
   </div>
   
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> About Me
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> Experience
   </h2>
   
   <div align="center">
