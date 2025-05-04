@@ -5,38 +5,31 @@
 </header>
 
 <div align="center">
+  
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Interests
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> SKILLS
   </h2>
 
   <div align="center">
     
-_**Backend Development**_  
-&nbsp;&nbsp;&nbsp;&nbsp;Experienced in Django, FastAPI, and Spring Boot.
+_**Backend Framework**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Django, FastAPI, Spring Boot
 
-_**Cloud Services**_  
-&nbsp;&nbsp;&nbsp;&nbsp;**Actively learning and building with AWS.**  
-&nbsp;&nbsp;&nbsp;&nbsp;Achieved certifications: CCNA, SAA, and ANS.
+_**AI Development**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Pytorch, OpenCV
 
-_**DevOps Engineering**_  
-&nbsp;&nbsp;&nbsp;&nbsp;Building DevOps/MLOps pipelines using Docker, Terraform, GitHub Actions, and AWS.  
-&nbsp;&nbsp;&nbsp;&nbsp;Basic experience with observability tools like Grafana & Prometheus.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Passionate about infrastructure as code and CI/CD automation.**
-
-_**Artificial Intelligence**_  
-&nbsp;&nbsp;&nbsp;&nbsp;Currently learning AI fundamentals and applying MLOps in real-world projects.  
-&nbsp;&nbsp;&nbsp;&nbsp;Contributed to a _**handwriting-to-font**_ generation project.  
-&nbsp;&nbsp;&nbsp;&nbsp;**Interested in NLP and large language models (LLMs), though not experienced yet.**
+_**DevOps/Cloud**_  
+&nbsp;&nbsp;&nbsp;&nbsp;Github Actions, Docker, Terraform, Prometheus, Grafana, AWS, NCloud
 
   </div>
   
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Experiences
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> EXPERIENCE
   </h2>
   
   <div align="center">
 
-**Undergraduate Student in Computer Engineering**  
+**Undergraduate Student in Computer Science**  
 _Soongsil University_  
 _Mar 2022 – Present_
 
