@@ -45,7 +45,10 @@ _Mar 2022 – Present_
 
 **Undergraduate Research Intern**  
 _System Software Laboratory, Soongsil University_  
-_Sep 2024 – Present_
+_Sep 2024 – June 2025_
+
+**SWE Intern in PTKOREA**
+_June 2025 - Present_
 
 _1. Participated and contributed_  
 _as an Undergraduate Research Assistant_  
