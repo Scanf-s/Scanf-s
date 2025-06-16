@@ -47,7 +47,7 @@ _Mar 2022 – Present_
 _System Software Laboratory, Soongsil University_  
 _Sep 2024 – June 2025_
 
-**SWE Intern**  
+**Backend Developer Internship**  
 _PTKOREA_  
 _June 2025 - Present_
 
