@@ -51,11 +51,6 @@ _Sep 2024 – June 2025_
 _PTKOREA_  
 _June 2025 - Present_
 
-_1. Participated and contributed_  
-_as an Undergraduate Research Assistant_  
-_to a [handwriting font generation service research paper](https://ocean.kisti.re.kr/IS_mvpopo213L.do?ResultTotalCNT=109&pageNo=1&pageSize=10&method=view&acnCn1=&poid=sighlt&kojic=OOGHAK&sVnc=y2024m10a&id=8&setId=&iTableId=&iDocId=&sFree=&pQuery=%28kojic%3AOOGHAK%29+AND+%28voliss_ctrl_no%3Ay2024m10a%29)
-._
-
   </div>
 
   <hr>
