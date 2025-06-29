@@ -59,7 +59,7 @@
   <em>PTKOREA | June 2025 – Present</em></p>
 
   <ul align="left">
-    <li>🧪 Built QA automation tools using 
+    <li>🧪 Refactoring QA automation tools using 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
     </li>
     <li>⚙️ Tuned image processing performance with 
