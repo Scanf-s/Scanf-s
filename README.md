@@ -1,64 +1,73 @@
 <header>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4&text=UIJONG%20YANG&fontAlign=39&textBg=false">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=4&text=UIJONG%20YANG&fontAlign=39&textBg=false">
   </div>
 </header>
 
 <div align="center">
-  
+
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> SKILLS
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" width="25" height="25" />
+    About Me
   </h2>
 
-  <div align="center">
-    
-_**Backend Framework**_  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+  <p><strong>Undergraduate Student in Computer Science</strong><br>
+  <em>Soongsil University | Mar 2022 – Present</em></p>
 
-_**AI Development**_  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+  <ul align="left">
+    <li>👨‍💻 <strong>Backend Developer</strong> using 
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> in 
+      <a href="https://github.com/Scanf-s/Inbanglist">Inbanglist</a>, 
+      <a href="https://github.com/Scanf-s/emotree_backend">Emotree</a>, 
+      <a href="https://github.com/sdp-tech/UPCY_BE">UPCY</a>
+    </li>
+    <li>🤖 <strong>Backend / ML Developer</strong> using 
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> in 
+      <a href="https://github.com/SSU2025-PS-MLProject/Human-AI-Code-Classifier">Human-AI Code Classifier</a>
+    </li>
+    <li>🚉 <strong>Backend Developer</strong> using 
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> in 
+      <a href="#">Seat-Catcher</a>
+    </li>
+    <li>☁️ <strong>DevOps Engineer</strong> using 
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/> in 
+      <a href="https://stu.ssu.ac.kr/">Soongsil University Student Government Website</a>
+    </li>
+  </ul>
 
-_**DevOps/Cloud**_  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-<br>
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+  <p><strong>Undergraduate Research Intern</strong><br>
+  <em>System Software Laboratory, Soongsil University | Sep 2024 – June 2025</em></p>
 
-  </div>
-  
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> EXPERIENCE
-  </h2>
-  
-  <div align="center">
+  <ul align="left">
+    <li>🖋️ Built backend using 
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> for 
+      <a href="https://www.koreascience.kr/article/CFKO202404272002306.pdf">Korean Handwriting Font Generation Service</a>
+    </li>
+    <li>🧠 Developed OCR & preprocessing pipeline using 
+      <img src="https://img.shields.io/badge/PaddleOCR-00599C?style=flat&logo=paddlepaddle&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> for 
+      <a href="https://kips.or.kr/bbs/confn/article/4259">Font Generation via Diffusion Models</a>
+    </li>
+  </ul>
 
-**Undergraduate Student in Computer Science**  
-_Soongsil University_  
-_Mar 2022 – Present_
+  <p><strong>Python Backend Developer Intern</strong><br>
+  <em>PTKOREA | June 2025 – Present</em></p>
 
-**Undergraduate Research Intern**  
-_System Software Laboratory, Soongsil University_  
-_Sep 2024 – June 2025_
+  <ul align="left">
+    <li>🧪 Built QA automation tools using 
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+    </li>
+    <li>⚙️ Tuned image processing performance with 
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+    </li>
+  </ul>
 
-**Backend Developer Internship**  
-_PTKOREA_  
-_June 2025 - Present_
-
-  </div>
-
-  <hr>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scanf-s&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=XV6&hide=HTML,C,Javascript,CSS,Makefile,jupyter%20notebook" width=38% />
-    </a>
-  </p>
-  
   <br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
 </div>
