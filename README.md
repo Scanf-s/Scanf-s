@@ -56,16 +56,20 @@
   </ul>
 
   <p><strong>Python Backend Developer Intern</strong><br>
-  <em>PTKOREA | June 2025 – Present</em></p>
-
+  <em>PTKOREA | June 2025 – Present</em>
+  </p>
   <ul align="left">
-    <li>🧪 Refactoring QA automation tools using 
+    <li>🧪 Refactored QA automation tools using 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
     </li>
     <li>⚙️ Tuned image processing performance with 
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
     </li>
+    <li>🧪 Implementing test coverage using 
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>
+    </li>
   </ul>
+
 
   <br>
 
