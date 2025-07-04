@@ -36,6 +36,11 @@
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/> in 
       <a href="https://stu.ssu.ac.kr/">Soongsil University Student Government Website</a>
     </li>
+    <li>☁️ <strong>Discord project with Serverless Application</strong> using 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> in 
+      <a href="https://github.com/Scanf-s/SSU_DiscordBot">SSU_DiscordBot</a>
+    </li>
   </ul>
 
   <p><strong>Undergraduate Research Intern</strong><br>
