@@ -65,7 +65,7 @@
   </p>
   
   <ul align="left">
-    <li>🧪 Managing QA automation tools backend using 
+    <li>🧪 Managing QA automation tool's backend application using 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white"/>
     </li>
