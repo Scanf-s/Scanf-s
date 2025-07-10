@@ -65,8 +65,9 @@
   </p>
   
   <ul align="left">
-    <li>🧪 Refactored QA automation tools using 
+    <li>🧪 Managing QA automation tools backend using 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white"/>
     </li>
     <li>⚙️ Tuned image processing performance with 
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
