@@ -28,7 +28,7 @@
     </li>
     <li>🚉 <strong>Backend Developer</strong> using 
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> in 
-      <a href="#">Seat-Catcher</a>
+      <a href="https://github.com/seat-catcher/SeatCatcher-API">Seat-Catcher</a>
     </li>
     <li>☁️ <strong>DevOps Engineer</strong> using 
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
