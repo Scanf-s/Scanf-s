@@ -49,6 +49,7 @@
   <ul align="left">
     <li>🖋️ Built backend using 
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> for 
       <a href="https://www.koreascience.kr/article/CFKO202404272002306.pdf">Korean Handwriting Font Generation Service</a>
