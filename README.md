@@ -62,11 +62,11 @@
   </ul>
 
   <p><strong>Python Backend Developer Intern</strong><br>
-    <em>PTKOREA | June 2025 – Present</em>
+    <em>PTKOREA | June 2025 – Aug 2025</em>
   </p>
   
   <ul align="left">
-    <li>🧪 Managing QA automation tool's backend application using 
+    <li>🧪 Managing QA automation tool backend application using 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white"/>
     </li>
@@ -79,7 +79,9 @@
     </li>
   </ul>
 
-
+  <p><strong>Cloud System SW Engineer Intern</strong><br>
+    <em>Boeing Korea | Expected to join on Sep 2025 </em>
+  </p>
 
   <br>
 
