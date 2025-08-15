@@ -33,9 +33,9 @@ Don't hesitate to learn new technologies to solve real-world problems.
 
 ## 💼 Professional Experience
 
-**Cloud System SW Engineer Intern (Upcoming)** *Boeing Korea | Starting Sep 2025*
+**Cloud System SW Engineer Intern** *Boeing Korea | Starting Sep 2025*
 
-**Python Backend Developer Intern** *PTKOREA | Jun 2025 – Aug 2025*
+**Python Backend Developer Intern** *PTKOREA | Jun 2025 – Sep 2025*
 * 🧪 Enhanced, maintained, and refactored a QA automation tool's backend using **FastAPI** and **SQLAlchemy**.
 * ⚙️ Improved image processing performance by tuning hyperparameters with **OpenCV** and **Optuna**.
 * 📊 Optimized data summary report queries in **PostgreSQL**, reducing average data retrieval time by **over 20%** (from 24ms to 19ms).
