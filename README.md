@@ -51,7 +51,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)  
 * 🧪 Enhanced, maintained, and refactored a QA automation tool's backend
 * 📊 Optimized data summary report queries in **PostgreSQL**
-* ✅ Authored **over 300 test cases** with **Pytest**, significantly increasing code reliability and test coverage.
+* ✅ Authored **over 700 test cases** with **Pytest**, significantly increasing code reliability and test coverage.
 
 **Undergraduate Research Intern** *System Software Laboratory, Soongsil University | Sep 2024 – Jun 2025*  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
