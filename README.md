@@ -61,7 +61,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
 * 🖋️ Built a scalable backend for a [Korean Handwriting Font Generation Service](https://www.koreascience.kr/article/CFKO202404272002306.pdf)
-* 🧠 Developed an OCR & image preprocessing pipeline with **PaddleOCR** and **OpenCV** for a research project on [Font Generation via Diffusion Models](https://kips.or.kr/bbs/confn/article/4259).
+* 🧠 Developed an OCR & image preprocessing pipeline with **PaddleOCR** and **OpenCV** for a research project on [Font Generation via Diffusion Models](https://www.manuscriptlink.com/society/kips/conference/ask2025/programBook/presentation/pdf/oral/KIPS_C2025A0202).
 
 ---
 
