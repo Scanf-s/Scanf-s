@@ -28,12 +28,12 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2C7BE5?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=kubernetes&logoColor=white)
 
 **📜 Certificates**  
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%93%20Associate-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AWS Advanced Networking – Specialty](https://img.shields.io/badge/AWS%20Advanced%20Networking%20%E2%80%93%20Specialty-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
 
 </div>
 
@@ -54,12 +54,10 @@ Don't hesitate to learn new technologies to solve real-world problems.
 * ✅ Authored **over 750 test cases** with **Pytest**, significantly increasing code reliability and test coverage.
 
 **Undergraduate Research Intern** *System Software Laboratory, Soongsil University | Sep 2024 – Jun 2025*  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=kubernetes&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
 * 🖋️ Built a scalable backend for a [Korean Handwriting Font Generation Service](https://www.koreascience.kr/article/CFKO202404272002306.pdf)
 * 🧠 Developed an OCR & image preprocessing pipeline with **PaddleOCR** and **OpenCV** for a research project on [Font Generation via Diffusion Models](https://www.manuscriptlink.com/society/kips/conference/ask2025/programBook/presentation/pdf/oral/KIPS_C2025A0202).
 
