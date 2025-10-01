@@ -28,6 +28,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **📜 Certificates**  
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%93%20Associate-232F3E?style=flat&logo=amazonaws&logoColor=white)
