@@ -41,7 +41,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 
 ## 💼 Professional Experience
 
-**Cloud System SW Engineer Intern** *Boeing Korea | Sep 2025 – Now*  
+**Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Now*  
 
 **Python Backend Developer Intern** *PTKOREA | Jun 2025 – Sep 2025*  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
