@@ -65,26 +65,43 @@ Don't hesitate to learn new technologies to solve real-world problems.
 
 ## 🚀 Projects
 
-* **Human-AI Code Classifier** | *Backend / ML*  
+### **Soongsil Univ. Student Council Website** | *Backend / DevOps*
+
+#### 1. Student Council Homepage | DevOps
+  [![Visit Website](https://img.shields.io/badge/Visit-Website-1E90FF?style=flat)](https://stu.ssu.ac.kr/)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  - Designed and implemented the Cloud infrastructure and managed CI/CD pipeline
+
+#### 2. Authentication Service | Backend / DevOps
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - Developed serverless OAuth 2.0 authentication service using **AWS Lambda, API Gateway, and Cognito**
+  - Implemented IaC with **AWS SAM (CloudFormation)** and automated deployments via **GitHub Actions CI/CD**
+  - Enabled SSO for 4 different services with token exchange, refresh, and validation capabilities
+
+#### 3. Soongsil University Announcement Service | Developer
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+  ![Go](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  
+### **Human-AI Code Classifier** | *Backend / ML*  
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/SSU2025-PS-MLProject/Human-AI-Code-Classifier)  
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-  Developed a service to classify the code as human or AI-generated 
+  Developed a service to classify the code as human or AI-generated  
 
-* **Seat-Catcher** | *Backend*  
+### **Seat-Catcher** | *Backend*  
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/seat-catcher/SeatCatcher-API)  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
   Contributed to backend development for a real-time seat yield service in subway
-
-* **Soongsil Univ. Student Council Website** | *DevOps*  
-  [![Visit Website](https://img.shields.io/badge/Visit-Website-1E90FF?style=flat)](https://stu.ssu.ac.kr/)  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  Designed and implemented the CI/CD pipeline and cloud infrastructure
 
 *Other projects are in my GitHub repositories...*
 <br>
