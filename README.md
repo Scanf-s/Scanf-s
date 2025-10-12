@@ -73,21 +73,23 @@ Don't hesitate to learn new technologies to solve real-world problems.
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  - Designed and implemented the Cloud infrastructure and managed CI/CD pipeline
+  Designed and implemented the Cloud infrastructure and managed CI/CD pipeline
 
 #### 2. Authentication Service | Backend / DevOps
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - Developed serverless OAuth 2.0 authentication service using **AWS Lambda, API Gateway, and Cognito**
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  Developed serverless OAuth 2.0 authentication service using **AWS Lambda, API Gateway, and Cognito**
 
 #### 3. Soongsil University Announcement Service | Developer
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?&style=flat&logo=go&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - Developed a scraper and email notification service that automatically notifies users when new announcements from Soongsil University or SSU-Path programs are registered, using AWS serverless services.
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  Developed a scraper and email notification service that automatically notifies users  
+  when new announcements from Soongsil University or SSU-Path programs are registered,  
+  using AWS serverless services such as AWS Lambda, APIGateway, DynamoDB, SQS
   
 ### **Human-AI Code Classifier** | *Backend / ML*  
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/SSU2025-PS-MLProject/Human-AI-Code-Classifier)  
