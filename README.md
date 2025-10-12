@@ -87,7 +87,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 #### 3. Soongsil University Announcement Service | Developer
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-3776AB?style=flat&logo=Go&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?&style=flat&logo=go&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   
 ### **Human-AI Code Classifier** | *Backend / ML*  
