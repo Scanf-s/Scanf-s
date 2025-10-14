@@ -71,6 +71,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ### **Soongsil Univ. Student Council Website** | *Backend / DevOps*
 
 #### 1. Student Council Homepage | DevOps
+  ![image](https://github.com/user-attachments/assets/561a01bb-f400-4732-a989-7bc76a205597)  
   [![Visit Website](https://img.shields.io/badge/Visit-Website-1E90FF?style=flat)](https://stu.ssu.ac.kr/)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -86,6 +87,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
   Developed serverless OAuth 2.0 authentication service using **AWS Lambda, API Gateway, and Cognito**
 
 #### 3. Soongsil University Announcement Service | Developer
+  ![image](https://github.com/user-attachments/assets/fd54e46d-37c5-4f23-91ea-6f49a04559ad)  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?&style=flat&logo=go&logoColor=white)
@@ -101,6 +103,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
   Developed a service to classify the code as human or AI-generated  
 
 ### **Seat-Catcher** | *Backend*  
+  ![image](https://github.com/user-attachments/assets/0e15f828-bff4-4095-ba4f-0c33e79e7403)  
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/seat-catcher/SeatCatcher-API)  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
