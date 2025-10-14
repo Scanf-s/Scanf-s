@@ -51,7 +51,7 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)  
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat&logo=pytest&logoColor=2f9fe3) 
 * 🧪 Enhanced, maintained, and refactored a QA automation tool's backend
 * 📊 Optimized data summary report queries in **PostgreSQL**
 * ✅ Authored **over 750 test cases** with **Pytest**, significantly increasing code reliability and test coverage.
