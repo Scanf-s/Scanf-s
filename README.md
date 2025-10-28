@@ -27,7 +27,6 @@ Don't hesitate to learn new technologies to solve real-world problems.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **📜 Certificates**  
@@ -57,7 +56,6 @@ Don't hesitate to learn new technologies to solve real-world problems.
 
 **Undergraduate Research Intern** *System Software Laboratory, Soongsil University | Sep 2024 – Jun 2025*  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=kubernetes&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 * 🖋️ Built a scalable backend for a [Korean Handwriting Font Generation Service](https://www.koreascience.kr/article/CFKO202404272002306.pdf)
