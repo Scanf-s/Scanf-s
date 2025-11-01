@@ -43,7 +43,6 @@ Don't hesitate to learn new technologies to solve real-world problems.
 **Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Now*  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 **Python Backend Developer Intern** *PTKOREA | Jun 2025 – Sep 2025*  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
