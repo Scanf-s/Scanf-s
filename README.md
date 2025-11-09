@@ -47,7 +47,14 @@ Passionate about building robust backend systems and exploring the intersection 
 ### **Soongsil Univ. Student Council Website** | *Backend / DevOps*
 
 #### 1. Student Council Homepage | DevOps
-  ![image](https://github.com/user-attachments/assets/561a01bb-f400-4732-a989-7bc76a205597)  
+
+<details>
+  <summary>Architecture</summary>
+  
+  ![image](https://github.com/user-attachments/assets/561a01bb-f400-4732-a989-7bc76a205597)
+  
+</details>
+
   [![Visit Website](https://img.shields.io/badge/Visit-Website-1E90FF?style=flat)](https://stu.ssu.ac.kr/)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -63,7 +70,14 @@ Passionate about building robust backend systems and exploring the intersection 
   Developed serverless SSO service using **AWS Lambda, API Gateway, and Cognito**
 
 #### 3. Soongsil University Announcement Service | Developer
+
+<details>
+  <summary>Architecture</summary>
+
   ![image](https://github.com/user-attachments/assets/64f6e24f-5857-4b73-abff-829a32c70b53)  
+  
+</details>
+
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -80,7 +94,14 @@ Passionate about building robust backend systems and exploring the intersection 
   Developed a service to classify the code as human or AI-generated  
 
 ### **Seat-Catcher** | *Backend*  
-  ![image](https://github.com/user-attachments/assets/0e15f828-bff4-4095-ba4f-0c33e79e7403)  
+
+<details>
+  <summary>Architecture</summary>
+
+  ![image](https://github.com/user-attachments/assets/0e15f828-bff4-4095-ba4f-0c33e79e7403)    
+  
+</details>
+
   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/seat-catcher/SeatCatcher-API)  
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
