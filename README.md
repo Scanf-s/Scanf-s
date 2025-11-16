@@ -74,7 +74,7 @@ Passionate about building robust backend systems and exploring the intersection 
 <details>
   <summary>Architecture</summary>
 
-  ![image](https://github.com/user-attachments/assets/64f6e24f-5857-4b73-abff-829a32c70b53)  
+  <img width="1331" height="803" alt="image" src="https://github.com/user-attachments/assets/ce640fb8-289a-4f5a-a899-d7125a175318" />
   
 </details>
 
