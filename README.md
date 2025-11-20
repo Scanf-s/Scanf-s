@@ -63,6 +63,14 @@ Passionate about building robust backend systems and exploring the intersection 
   Designed and implemented the Cloud infrastructure and managed CI/CD pipeline
 
 #### 2. Single Sign On Service for ITSupport Applications | Developer
+
+<details>
+  <summary>Architecture</summary>
+  
+  ![image](https://github.com/user-attachments/assets/9280aaed-621e-4d60-be16-1d28f10548d7)
+  
+</details>
+
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
