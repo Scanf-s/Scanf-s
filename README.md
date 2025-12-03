@@ -36,7 +36,6 @@ Passionate about building robust backend systems and exploring the intersection 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-[Font Generation via Diffusion Models](https://www.manuscriptlink.com/society/kips/conference/ask2025/programBook/presentation/pdf/oral/KIPS_C2025A0202).
 
 ---
 
