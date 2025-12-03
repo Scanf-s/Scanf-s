@@ -19,7 +19,7 @@ Passionate about building robust backend systems and exploring the intersection 
 
 ## 💼 Professional Experience
 
-**Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Now*  
+**Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Mar 2026*  
 ![ASP.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![EFCore](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
