@@ -43,7 +43,7 @@ Passionate about building robust backend systems and exploring the intersection 
 
 ### **Soongsil Univ. Student Council Website** | *Backend / DevOps*
 
-#### 1. Student Council Homepage | DevOps
+#### 1. Student Council Homepage | Cloud Architect, Developer
 
 <details>
   <summary>Architecture</summary>
@@ -64,7 +64,7 @@ Passionate about building robust backend systems and exploring the intersection 
 <details>
   <summary>Architecture</summary>
   
-  ![image](https://github.com/user-attachments/assets/9280aaed-621e-4d60-be16-1d28f10548d7)
+  ![image](https://github.com/user-attachments/assets/c08a22cb-7b2a-4a7e-b411-51d01c7f75cc)
   
 </details>
 
