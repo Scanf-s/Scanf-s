@@ -64,8 +64,8 @@ Passionate about building robust backend systems and exploring the intersection 
 <details>
   <summary>Architecture</summary>
   
-  ![image](https://github.com/user-attachments/assets/c08a22cb-7b2a-4a7e-b411-51d01c7f75cc)
-  
+  ![image](https://github.com/user-attachments/assets/f880b920-0d4f-4b46-bbf8-412aa7ca5cd7)
+
 </details>
 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
