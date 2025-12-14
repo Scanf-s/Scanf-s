@@ -59,12 +59,12 @@ Passionate about building robust backend systems and exploring the intersection 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
   Designed and implemented the Cloud infrastructure and managed CI/CD pipeline
 
-#### 2. Single Sign On Service for ITSupport Applications | Developer
+#### 2. [Single Sign On Service for ITSupport Applications](https://scanf-s.github.io/itsupport/2025/12/05/SingleSignOn/) | Developer
 
 <details>
   <summary>Architecture</summary>
   
-  ![image](https://github.com/user-attachments/assets/f880b920-0d4f-4b46-bbf8-412aa7ca5cd7)
+  ![image](https://github.com/user-attachments/assets/669ad050-0216-49a9-aaf9-8a3052b91f31)
 
 </details>
 
