@@ -9,9 +9,9 @@ Senior Computer Science student at Soongsil University.
 Passionate about building robust backend systems and exploring the intersection of ML and DevOps.  
 
 ### **📜 Certificates**  
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20%E2%80%93%20Associate-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS Advanced Networking – Specialty](https://img.shields.io/badge/AWS%20Advanced%20Networking%20%E2%80%93%20Specialty-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5e62bf4e-0e97-40f5-9c73-df42656f1523" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/54459142-a410-4b54-8fa8-a43ae8ff4103" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/658e4866-173c-4643-9ed7-6ef9aa7b2147" />
 
 </div>
 
