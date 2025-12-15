@@ -5,8 +5,8 @@
 <div align="center">
 
 ### 👋 About Me
-Senior Computer Science student at Soongsil University.  
-Passionate about building robust backend systems and exploring the intersection of ML and DevOps.  
+Senior Computer Science student @Soongsil University.  
+Software Engineer Intern @Boeing Korea
 
 ### **📜 Certificates**  
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5e62bf4e-0e97-40f5-9c73-df42656f1523" />
