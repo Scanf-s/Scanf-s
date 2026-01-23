@@ -5,8 +5,9 @@
 <div align="center">
 
 ### 👋 About Me
-Senior Computer Science student @Soongsil University.  
-Software Engineer Intern @Boeing Korea.  
+Senior Computer Science student **@Soongsil University**.  
+Software Engineer Intern **@Boeing Korea**.  
+Open source contributor using **Golang**.  
 [Personal Blog](https://scanf-s.github.io/)
 
 ### **📜 Techstack**  
