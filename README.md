@@ -7,7 +7,7 @@
 ### 👋 About Me
 **[Soongsil University]** Senior student in Computer Science.  
 **[Boeing Korea]** Software Engineer Intern.  
-**[Open source]** Contributor.  
+**[Open Source Contributor]**.  
 [Personal Blog](https://scanf-s.github.io/)
 
 ### **📜 Techstack**  
