@@ -44,6 +44,20 @@
 - Served multiple AI models
 - Researched image based font generation pipeline
 
+---
+
+## 🤲 Contributions
+
+**Cadence**
+- Replaced tokenbucket with standard limiter on CLI # [PR](https://github.com/cadence-workflow/cadence/pull/7585)
+
+**vLLM Semantic Router**
+- Deprecated semantic_cache.backend_config_path and embed backend config inline # [PR](https://github.com/vllm-project/semantic-router/pull/1100)
+
+**EZ**
+- Added HTTP status constants # [PR](https://github.com/SchoolyB/EZ/pull/907)
+- Typechecker modification to resolve "using" directive bug # [PR](https://github.com/SchoolyB/EZ/pull/979)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
 </div>
