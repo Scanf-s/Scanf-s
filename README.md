@@ -5,7 +5,7 @@
 <div align="center">
 
 ### 👋 About Me
-**[Soongsil University]** B.S. in Computer Science.  
+**[Soongsil University]** Senior student in Computer Science. 
 **[Boeing Korea]** Software Engineer Intern.  
 **[Open source]** Contributor.  
 [Personal Blog](https://scanf-s.github.io/)
