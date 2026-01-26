@@ -47,16 +47,12 @@
 ---
 
 ## 🤲 Contributions
-
-**Cadence**
-- Replaced tokenbucket with standard limiter on CLI # [PR](https://github.com/cadence-workflow/cadence/pull/7585)
-
-**vLLM Semantic Router**
-- Deprecated semantic_cache.backend_config_path and embed backend config inline # [PR](https://github.com/vllm-project/semantic-router/pull/1100)
-
-**EZ**
-- Added HTTP status constants # [PR](https://github.com/SchoolyB/EZ/pull/907)
-- Typechecker modification to resolve "using" directive bug # [PR](https://github.com/SchoolyB/EZ/pull/979)
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| **Cadence** | Replaced tokenbucket with standard limiter on CLI | [PR #7585](https://github.com/cadence-workflow/cadence/pull/7585) |
+| **vLLM Semantic Router** | Deprecated config path and embedded backend config inline | [PR #1100](https://github.com/vllm-project/semantic-router/pull/1100) |
+| **EZ** | Added HTTP status constants & Fixed "using" directive bug | [PR #907](https://github.com/SchoolyB/EZ/pull/907), [#979](https://github.com/SchoolyB/EZ/pull/979) |
+| **Spine** | Implemented HTTP Header resolver | [PR #5](https://github.com/NARUBROWN/spine/pull/5) |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
