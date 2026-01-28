@@ -13,15 +13,17 @@
 ### **📜 Techstack**  
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | **Python**, **Go**, C#, SQL, Javascript |
-| **Backend** | **FastAPI**, **Serverless**, .NET Core, Blazor, Celery |
-| **Cloud & Infra** | **AWS**, Docker, NGINX |
+| **Languages** | **Python**, **Go**, C#, Java <br> SQL, Javascript |
+| **Backend** | **FastAPI**, **Serverless**, .NET Core <br> Django, Spring boot, Blazor, Celery |
+| **Cloud & Infra** | **AWS**, Docker |
 | **Databases** | PostgreSQL, MSSQL, DynamoDB |
 | **Others** | Git, Pytest, OpenCV |
 
 ### **📜 Certificates**  
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5e62bf4e-0e97-40f5-9c73-df42656f1523" />
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/54459142-a410-4b54-8fa8-a43ae8ff4103" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/1aeaf909-0b6b-495c-b6b5-e6d86e6955ea" />
+<br>
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/658e4866-173c-4643-9ed7-6ef9aa7b2147" />
 
 </div>
