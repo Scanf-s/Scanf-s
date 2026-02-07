@@ -15,7 +15,7 @@
 | :--- | :--- |
 | **Languages** | **Python**, **Go**, C#, Java <br> SQL, Javascript |
 | **Backend** | **FastAPI**, **Serverless**, .NET Core <br> Django, Spring boot, Blazor, Celery |
-| **Cloud & Infra** | **AWS**, Docker |
+| **Cloud & Infra** | **AWS**, Terraform, Docker |
 | **Databases** | PostgreSQL, MSSQL, DynamoDB |
 | **Others** | Git, Pytest, OpenCV |
 
