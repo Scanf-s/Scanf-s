@@ -48,7 +48,31 @@
 
 ---
 
-## 🤲 Contributions
+## 🏫 Student Community Contributions
+
+**Backend Developer / DevOps** *Soongsil University ITSupport committee | Mar 2025 – Now*
+
+- **Student Council Homepage**
+  - Migrate self-managed authentication logic to Single Sign On
+  - Managed/Optimized Dev/Prod integration/deployment pipeline with Github Actions
+
+- **AWS Infrastructure Management**
+  - Built multi-environment (Dev/Prod/Global) AWS infrastructure from scratch using Terraform
+  - Designed network and security architecture. (VPC separation, VPC Peering, Bastion Host, Security Group management)
+  - Reduced costs with Lambda-based EC2 auto start/stop; introduced SSM session manager to developers for security purpose.
+  - Expanded infrastructure to 4 services with CloudFront CDN, ACM, and Route53 integration
+
+- **Single Sign On Service**
+  - Implemented a centralized Single Sign-On service for 4 different IT services leveraging AWS Serverless architecture (Cognito, Lambda, SQS, and API Gateway).
+  - Developed API Handlers and Post-Authentication Lambda functions using Python for rapid development, and Post-Confirmation functions using Go to ensure high-performance synchronous processing.
+  - Decoupled the login logic within the Post-Authentication Lambda by implementing an SQS Producer-Consumer pattern, significantly reducing processing overhead.
+  - Established automated CI/CD pipelines using GitHub Actions for deployment.
+  - Optimized authentication API latency by resolving Lambda cold start issue, reducing response time from 500ms to under 50ms (90%) using provisioned concurrency configuration.
+  - Enhanced environment provisioning efficiency across development and production by utilizing AWS SAM (CloudFormation) integrated with LocalStack for local environment.
+  
+---
+
+## 🤲 Open Source Contributions
 | Project | PRs |
 | :--- | :---: |
 | **Cadence** | [PR #7585](https://github.com/cadence-workflow/cadence/pull/7585), [PR #7650](https://github.com/cadence-workflow/cadence/pull/7650) |
