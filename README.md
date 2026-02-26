@@ -64,7 +64,7 @@
 ## 🤲 Open Source Contributions
 | Project | PRs |
 | :--- | :---: |
-| **Cadence** | [PR #7585](https://github.com/cadence-workflow/cadence/pull/7585), [PR #7650](https://github.com/cadence-workflow/cadence/pull/7650) |
+| **Cadence** | [PR #7585](https://github.com/cadence-workflow/cadence/pull/7585), [PR #7650](https://github.com/cadence-workflow/cadence/pull/7650), [PR #7709](https://github.com/cadence-workflow/cadence/pull/7709) |
 | **vLLM Semantic Router** | [PR #1100](https://github.com/vllm-project/semantic-router/pull/1100) |
 | **EZ** | [PR #907](https://github.com/SchoolyB/EZ/pull/907), [PR #979](https://github.com/SchoolyB/EZ/pull/979) |
 | **Spine** | [PR #5](https://github.com/NARUBROWN/spine/pull/5) |
