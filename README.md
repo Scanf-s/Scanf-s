@@ -49,26 +49,26 @@
 
 ### Projects
 
-**Student Council homepage service**
+**Student Council homepage service**  
 *Java, Spring Boot, Spring Security*
 - Backend application maintainer
 - Resolved several customer claims
 
-**AWS Infrastructure**
+**AWS Infrastructure**  
 *AWS, Terraform, CloudFormation*
 - Administrator of entire ITSupport AWS infrastructure using Terraform
 - Enhanced cloud environment security
 - Optimized monthly AWS cost
 
-**Single Sign-On service**
+**Single Sign-On service**  
 *Go, Python, AWS Serverless*
 - SSO application administrator/developer
 
-**University announcement notification service**
+**University announcement notification service**  
 *Go, AWS Serverless*
 - Notification service administrator/developer
 
-**Monitoring system**
+**Monitoring system**  
 *OpenTelemetry, ECS, Grafana*
 - Monitoring system maintainer
 - Standardized overall application logging
