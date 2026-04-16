@@ -10,6 +10,8 @@
 **[Open Source Contributor]**.  
 [Personal Blog](https://scanf-s.github.io/)
 
+</div>
+
 ---
 
 ## 💼 Professional Experience
