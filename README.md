@@ -7,8 +7,10 @@
 ### 👋 About Me
 **[Soongsil University]** Bachelor of Computer Science  
 **[Boeing Korea]** Junior Software Engineer  
-**[Open Source Contributor]**.  
+**[Open Source Contributor]**     
 [Personal Blog](https://scanf-s.github.io/)
+
+Interested in *virtualization, cloud system, observability and stable backend system*.
 
 </div>
 
