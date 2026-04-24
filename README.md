@@ -5,7 +5,7 @@
 <div align="center">
 
 ### 👋 About Me
-**[Soongsil University]** Senior student in Computer Science  
+**[Soongsil University]** Bachelor of Computer Science  
 **[Boeing Korea]** Junior Software Engineer  
 **[Open Source Contributor]**.  
 [Personal Blog](https://scanf-s.github.io/)
@@ -15,6 +15,8 @@
 ---
 
 ## 💼 Professional Experience
+
+**Cloud System SW Engineer** *Boeing Korea | June 2026 –*
 
 **Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Mar 2026*  
 *C#, Python, ASP.NET, SQLServer, EF*
@@ -49,19 +51,20 @@
 **AWS Infrastructure**  
 *AWS, Terraform, CloudFormation*
 - Administrator of entire ITSupport AWS infrastructure using Terraform
-- Enhanced cloud environment security
-- Optimized monthly AWS cost
+- Cloud environment security enhancement
+- Monthly AWS cost optimization
 
 **Single Sign-On service**  
-*Go, Python, AWS Serverless*
-- SSO application administrator/developer
+*Go, Python, AWS Serverless, Grafana Cloud*
+- Serverless based Single Sign-On service administrator/developer
+- Implement cognito user pool synchronize logic with existing users in user database.
 
 **University announcement notification service**  
 *Go, AWS Serverless*
 - Notification service administrator/developer
 
 **Monitoring system**  
-*OpenTelemetry, ECS, Grafana*
+*OpenTelemetry, Elastic Common Schema, Grafana Cloud*
 - Monitoring system maintainer
 - Standardized overall application logging
   
