@@ -5,12 +5,13 @@
 <div align="center">
 
 ### 👋 About Me
-**[Soongsil University]** Bachelor of Computer Science  
-**[Boeing Korea]** Junior Software Engineer  
-**[Open Source Contributor]**     
-[Personal Blog](https://scanf-s.github.io/)
+***Bachelor of Computer Science, Soongsil University***  
+***Software Engineer, Boeing Korea***  
+***Open source contributor***  
 
-Interested in *virtualization, cloud system, observability and stable backend system*.
+Interested in *virtualization, cloud system, observability and stable backend system*.  
+
+[Personal Blog](https://scanf-s.github.io/)
 
 </div>
 
