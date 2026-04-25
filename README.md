@@ -16,60 +16,22 @@ Interested in *virtualization, cloud system, observability and stable backend sy
 
 ---
 
-## 💼 Professional Experience
+## 👊 Experiences
 
 **Cloud System SW Engineer** *Boeing Korea | June 2026 –*
 
 **Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Mar 2026*  
 *C#, Python, ASP.NET, SQLServer, EF*
-- AI Workflow Integration
-- Core API Optimization
-- Graph UI Optimization
 
 **Python Backend Developer Intern** *PTKOREA | Jun 2025 – Sep 2025*  
 *Python, FastAPI, PostgreSQL, OpenCV*
-- Test development
-- Backend application management
-- OpenCV image enhancement research
+
+**Backend Developer / DevOps** *Soongsil University ITSupport committee | Mar 2025 – Now*  
+*Go, Python, Rust, AWS, Terraform, SpringBoot, Github Actions*
 
 **Undergraduate Researcher** *System Software Laboratory, Soongsil University | Sep 2024 – Jun 2025*  
 *Python, FastAPI, Celery, Redis, OpenCV, PaddleOCR*
-- Full stack (backend/frontend) development (Backend focused)
-- Served multiple AI models
-- Researched image based font generation pipeline
 
----
-
-## 🏫 Student Community Contributions
-**Backend Developer / DevOps** *Soongsil University ITSupport committee | Mar 2025 – Now*  
-
-### Projects
-
-**Student Council homepage service**  
-*Java, Spring Boot, Spring Security*
-- Backend application maintainer
-- Resolved several customer claims
-
-**AWS Infrastructure**  
-*AWS, Terraform, CloudFormation*
-- Administrator of entire ITSupport AWS infrastructure using Terraform
-- Cloud environment security enhancement
-- Monthly AWS cost optimization
-
-**Single Sign-On service**  
-*Go, Python, AWS Serverless, Grafana Cloud*
-- Serverless based Single Sign-On service administrator/developer
-- Implement cognito user pool synchronize logic with existing users in user database.
-
-**University announcement notification service**  
-*Go, AWS Serverless*
-- Notification service administrator/developer
-
-**Monitoring system**  
-*OpenTelemetry, Elastic Common Schema, Grafana Cloud*
-- Monitoring system maintainer
-- Standardized overall application logging
-  
 ---
 
 ## 🤲 Open Source Contributions
