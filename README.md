@@ -18,7 +18,7 @@ Interested in *virtualization, cloud system, observability and stable backend sy
 
 ## 👊 Experiences
 
-**Cloud System SW Engineer** *Boeing Korea | June 2026 –*
+**Software Engineer** *Boeing Korea | June 2026 –*
 
 **Cloud System SW Engineer Intern** *Boeing Korea | Oct 2025 – Mar 2026*  
 *C#, Python, ASP.NET, SQLServer, EF*
