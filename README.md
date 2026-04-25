@@ -1,23 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=4&text=UIJONG%20YANG&fontAlign=39&textBg=false">
-</div>
+## 👋 About Me
 
 <div align="center">
 
-### 👋 About Me
 ***Bachelor of Computer Science, Soongsil University***  
 ***Software Engineer, Boeing Korea***  
 ***Open source contributor***  
 
 Interested in *virtualization, cloud system, observability and stable backend system*.  
 
-[Personal Blog](https://scanf-s.github.io/)
-
 </div>
 
----
-
 ## 👊 Experiences
+
+<div align="center">
 
 **Software Engineer** *Boeing Korea | June 2026 –*
 
@@ -33,9 +28,12 @@ Interested in *virtualization, cloud system, observability and stable backend sy
 **Undergraduate Researcher** *System Software Laboratory, Soongsil University | Sep 2024 – Jun 2025*  
 *Python, FastAPI, Celery, Redis, OpenCV, PaddleOCR*
 
----
+</div>
 
 ## 🤲 Open Source Contributions
+
+<div align="center">
+  
 | Project | PRs |
 | :--- | :---: |
 | **Cadence** | [PR #7585](https://github.com/cadence-workflow/cadence/pull/7585), [PR #7650](https://github.com/cadence-workflow/cadence/pull/7650), [PR #7709](https://github.com/cadence-workflow/cadence/pull/7709) |
@@ -43,6 +41,4 @@ Interested in *virtualization, cloud system, observability and stable backend sy
 | **EZ** | [PR #907](https://github.com/SchoolyB/EZ/pull/907), [PR #979](https://github.com/SchoolyB/EZ/pull/979) |
 | **Spine** | [PR #5](https://github.com/NARUBROWN/spine/pull/5) |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&animation=fadeIn&section=footer&fontAlign=70">
 </div>
